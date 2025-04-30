@@ -72,9 +72,9 @@
         NuFu {
             label = "Numeral/Function";
             bindings = <
-  &kp TAB         &kp ESCAPE  &trans        &trans     &trans     &trans  &kp N7  &kp N8  &kp N9  &kp DELETE
-  &kp LEFT_SHIFT  &trans      &kp UP_ARROW  &kp F6     &kp F11    &trans  &kp N4  &kp N5  &kp N6  &kp BACKSPACE
-  &kp LCTRL       &kp LEFT    &kp DOWN      &kp RIGHT  &kp F10    &trans  &kp N1  &kp N2  &kp N3  &trans
+  &kp TAB         &kp ESCAPE  &trans        &trans     &trans     &trans  &kp N7  &kp N8  &kp N9  &kp BACKSPACE
+  &kp LEFT_SHIFT  &trans      &kp UP_ARROW  &kp F6     &kp F11    &trans  &kp N4  &kp N5  &kp N6  &kp SQT
+  &kp LCTRL       &kp LEFT    &kp DOWN      &kp RIGHT  &kp F10    &trans  &kp N1  &kp N2  &kp N3  &kp ENTER
                               &trans        &trans     &trans     &trans  &kp N0
             >;
         };
